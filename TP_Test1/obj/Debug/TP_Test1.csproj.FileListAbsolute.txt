@@ -1,0 +1,43 @@
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csprojResolveAssemblyReference.cache
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCOMLib.dll
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCTRLLib.dll
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\bin\Debug\TP_Test1.pdb
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+c:\users\tester\documents\visual studio 2015\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
+E:\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+E:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+E:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+E:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCOMLib.dll
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCTRLLib.dll
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.pdb
+C:\Users\tester\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csprojResolveAssemblyReference.cache
+D:\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+D:\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCOMLib.dll
+D:\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCTRLLib.dll
+D:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+D:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+D:\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\bin\Debug\TP_Test1.pdb
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCOMLib.dll
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCTRLLib.dll
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
+C:\Users\dell\Desktop\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csprojResolveAssemblyReference.cache
+C:\Projects\TP_Test1\TP_Test1\bin\Debug\TP_Test1.exe.config
+C:\Projects\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCOMLib.dll
+C:\Projects\TP_Test1\TP_Test1\obj\Debug\Interop.SYNCTRLLib.dll
+C:\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.csproj.ResolveComReference.cache
+C:\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.exe
+C:\Projects\TP_Test1\TP_Test1\obj\Debug\TP_Test1.pdb
